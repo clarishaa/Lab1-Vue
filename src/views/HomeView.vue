@@ -261,7 +261,7 @@
 
                       <div class="author-info">
                         <div class="author-pic">
-                          <img :src="require('../assets/images/person-1.png'" alt="Maria Jones" class="img-fluid">
+                          <img :src="require('../assets/images/person-1.png')" alt="Maria Jones" class="img-fluid">
                         </div>
                         <h3 class="font-weight-bold">Maria Jones</h3>
                         <span class="position d-block mb-3">CEO, Co-Founder, XYZ Inc.</span>
